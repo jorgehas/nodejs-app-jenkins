@@ -15,14 +15,14 @@ $ npm init
 ```
 #### Install express.js
 ```
-npm install express --save
+$ npm install express --save
 ```
 
 ### Part 2: Dockerizing our Node.js application
 
 #### Dockerfile content
 ```
-FROM node:7
+FROM node:12
 WORKDIR /app
 COPY package.json /app
 RUN npm install

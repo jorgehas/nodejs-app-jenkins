@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app-jenkins",
+  "version": "1.0.0",
+  "description": "## Install jenkins in  Digital  Ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgehas/nodejs-app-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgehas/nodejs-app-jenkins/issues"
+  },
+  "homepage": "https://github.com/jorgehas/nodejs-app-jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

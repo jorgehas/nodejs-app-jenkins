@@ -1,6 +1,6 @@
 # nodejs-app-jenkins
 
-## Install jenkins in  Digital  Ocean
+## Install jenkins in  DigitalOcean
 
 ![](digi-ocean1.png)
 
